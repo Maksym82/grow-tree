@@ -11,3 +11,8 @@
 .row {
   display: flex;
 }
+
+.col {
+  width: fit-content;
+  padding: 0 var(--grid-gutter);
+}
